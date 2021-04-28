@@ -1,0 +1,11 @@
+Feinstaubstation
+Die Erste Zeile Spiegelt den Aufbau der unteren Zeilen an.
+Die csv Datei ist wie folgt aufgebaut:
+1. sensor_id;
+2. sensor_type;
+3. location;
+4. lat;
+5. lon;
+6. timestamp;
+7. temperature;
+8. humidity
